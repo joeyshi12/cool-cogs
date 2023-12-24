@@ -1,0 +1,16 @@
+{
+    "author": [
+        "coolcat0"
+    ],
+    "install_msg": "idk",
+    "name": "MC Manager",
+    "short": "MCDTCGM",
+    "min_bot_version": "0.0.1",
+    "requirements": [
+        "docker==7.0.0"
+    ],
+    "description": "idk",
+    "tags": [
+    ],
+    "end_user_data_statement": "This cog does not persistently store any data or metadata about users."
+}

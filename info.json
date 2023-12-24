@@ -1,0 +1,13 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog_repo.schema.json",
+    "author": [
+        "coolcat0"
+    ],
+    "install_msg": "Thank you and commiserations for installing cool-cogs",
+    "name": "cool-cogs",
+    "short": "The coolest cogs",
+    "description": "My cogs for utility",
+    "tags": [
+        "cool"
+    ]
+}
